@@ -4,9 +4,11 @@ Astral is a unique formatting language designed for transcendent design and cosm
 
 # Astral Language
 
-![Astral Logo](astral_logo.png)
-
+![Astral Logo]( logo_astral.jpg)
 Astral is a formatting language designed to transcend traditional programming paradigms and explore the depths of the cosmic realm.
+
+![Astral Logo]( astral.jpg)
+
 
 ## Version: 1.0.0
 
