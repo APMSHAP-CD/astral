@@ -94,3 +94,6 @@ Contributions to Astral are welcome and encouraged! Feel free to transcend the l
 Astral is licensed under the Cosmic Commons License. Feel free to use, modify, and distribute Astral for cosmic and non-cosmic purposes alike.
 
 *Join us on our journey through the astral realms and let your creativity transcend the cosmos!*
+#AMPSHAP
+Symbolic formatting is complete Far from programming languages 
+![Astral Logo]( logo.jpg)
