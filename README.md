@@ -2,6 +2,54 @@
 
 Astral is a unique formatting language designed for transcendent design and cosmic expression. With Astral, you can create visually stunning and spiritually enriching documents, web pages, and applications that transcend traditional formatting paradigms.
 
+# Astral Language
+
+![Astral Logo](astral_logo.png)
+
+Astral is a formatting language designed to transcend traditional programming paradigms and explore the depths of the cosmic realm.
+
+## Version: 1.0.0
+
+### Features:
+- Cosmic design elements
+- Transcendent functions
+- Celestial animations
+- Harmonic resonance styles
+
+## Installation:
+
+```bash
+npm install astral-language
+```
+
+## Usage:
+
+```astral
+@ASTRAL/ the_bridge/
+ASTRAL DESIGN: COSMIC
+ASTRAL ELEMENTS/AESTHETIC TOP: NEBULA/SHADE: GALACTIC BLUE/DIMENSIONS: VARIABLE///
+ASTRAL IMG/cosmic_image.png/
+ASTRAL VIDEO/stellar_video.mp4/
+ASTRAL TEXT/Welcome to the Astral Realm!/
+ASTRAL FORM/form_id:quantum_registration/
+ASTRAL CHART/chart_type:quantum_wavefunction/
+ASTRAL NOTIFICATION/message:A cosmic event has occurred!/
+ASTRAL LINK/url:https://astralworld.com/
+ASTRAL LANGUAGE/name:AstralScript/
+ASTRAL ANIMATION/source:celestial_animation.gif/frames:42/speed:cosmic_speed/
+ASTRAL STYLE/style_id:hyper-dimensional_button/background_color:transcendent_white/text_color:interstellar_gold/border_radius:8px/
+```
+
+## Documentation:
+You can find the full documentation [here](docs/documentation.md).
+
+## License:
+This project is licensed under the Astral License - see the [LICENSE](LICENSE) file for details.
+
+```
+
+In this README.md file, the Astral language is introduced with its logo, version number, features, installation instructions, usage example, documentation link, and license information. Additionally, the README includes a code snippet demonstrating the usage of the Astral language.
+
 ### Features:
 - **Cosmic Design Elements:** Integrate nebulae, galaxies, and celestial bodies into your designs for a truly out-of-this-world aesthetic.
 - **Transcendent Functions:** Harness the power of transcendental functions to resonate with higher frequencies and manifest divine designs.
